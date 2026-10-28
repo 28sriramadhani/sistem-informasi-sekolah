@@ -43,6 +43,8 @@ Pemrograman Framework.
 ### Galeri
 ![Galeri](screenshots/galeri.png)
 
+
+
 ## 🚀 Cara Menjalankan
 1. Import file `database.sql` ke MySQL/phpMyAdmin
 2. Letakkan folder project di `htdocs` XAMPP
