@@ -34,11 +34,11 @@ Pemrograman Framework.
 ### Halaman Utama
 ![Halaman Utama](screenshots/halaman-utama.png)
 
-### Profil Sekolah
-![Profil](screenshots/profil.png)
-
 ### Blog & Informasi
 ![Blog](screenshots/blog.png)
+
+### Profil Sekolah
+![Profil](screenshots/profil.png)
 
 ### Galeri
 ![Galeri](screenshots/galeri.png)
