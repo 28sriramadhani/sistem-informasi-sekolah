@@ -4,7 +4,8 @@
 Sistem informasi berbasis web yang dirancang sebagai 
 media publikasi digital sekolah. Proyek ini dikembangkan 
 pada Semester 3 sebagai implementasi mata kuliah 
-Pemrograman Framework.
+Pemrograman Framework, dengan fokus pada pengembangan 
+tampilan antarmuka (front-end).
 
 > ⚠️ **DISCLAIMER:**
 > Nama sekolah "SMA N 1 Bandar Baru" digunakan murni 
@@ -24,12 +25,10 @@ Pemrograman Framework.
 - Halaman Pendaftaran
 
 ## 🛠️ Tech Stack
-- **Backend**: PHP, Framework
+- **Backend**: PHP (Framework)
 - **Frontend**: HTML, CSS, JavaScript
-- **Database**: MySQL
 
 ## 📸 Screenshot Sistem
-
 
 ### Halaman Utama
 ![Halaman Utama](screenshots/halaman-utama.png)
@@ -43,13 +42,8 @@ Pemrograman Framework.
 ### Galeri
 ![Galeri](screenshots/galeri.png)
 
-
-
-## 🚀 Cara Menjalankan
-1. Import file `database.sql` ke MySQL/phpMyAdmin
-2. Letakkan folder project di `htdocs` XAMPP
-3. Jalankan XAMPP (Apache + MySQL)
-4. Akses: `http://localhost/nama-folder`
+## 📂 Source Code
+Source code tersedia atas permintaan. Silakan hubungi sriramadani596@gmail.com.
 
 ## 👤 Developer
 **Sri Ramadhani**
